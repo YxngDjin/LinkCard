@@ -21,7 +21,7 @@ const linkCard = () => {
             Brandenburg, Deutschland
           </p>
           <p className="flex justify-center">
-            "Lerning Front-End Development"
+            "Learning Front-End Development"
           </p>
         </div>
           <div className="flex flex-col items-center">
