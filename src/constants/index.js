@@ -1,22 +1,22 @@
 export const btn = [
     {
         textList: ["GitHub"],
-        href: "https://github.com/",
+        href: "https://github.com/YxngDjin",
     },
     {
-        textList: ["Frontend Mentor"],
-        href: "https://www.frontendmentor.io/home",
+        textList: ["SoundCloud"],
+        href: "https://soundcloud.com/yxngdjin",
     },
     {
-        textList: ["LinkedIn"],
-        href: "https://de.linkedin.com/",
+        textList: ["Xing"],
+        href: "https://www.xing.com/profile/Dennis_Lehmann040560/web_profiles?expandNeffi=true",
     },
     {
         textList: ["Twitter"],
-        href: "https://twitter.com/?lang=de",
+        href: "https://twitter.com/YxngDjin",
     },
     {
         textList: ["Instagram"],
-        href: "https://www.instagram.com",
+        href: "https://www.instagram.com/yxngDjin",
     },
 ];

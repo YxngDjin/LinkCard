@@ -15,13 +15,13 @@ const linkCard = () => {
         </div>
         <div className="flex w-full justify-center  flex-col">
           <h1 className="flex w-full justify-center font-bold">
-            Jessica Randall
+            Dennis Lehmann
           </h1>
           <p className="flex justify-center text-green mb-3">
-            London, United Kingdom
+            Brandenburg, Deutschland
           </p>
           <p className="flex justify-center">
-            "Front-End Developer and avid reader"
+            "Lerning Front-End Development"
           </p>
         </div>
           <div className="flex flex-col items-center">
